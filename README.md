@@ -1,1 +1,1 @@
-# ai-stock-bot-bryan
+# ai-stock-com-bryan
